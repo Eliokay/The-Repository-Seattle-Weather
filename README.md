@@ -20,6 +20,6 @@ This brogect was carried out using Google Colaboratory
 This project was created and carried out by [Eloho Okoloko](https://www.linkedin.com/in/elohookoloko/). 
 
 ## License
-[License](https://github.com/Eliokay/The-Repository-Seattle-Weather/blob/main/LICENSE)
+MIT © Eloho Okoloko
 
 
