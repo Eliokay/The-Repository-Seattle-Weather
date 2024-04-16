@@ -19,7 +19,7 @@ This brogect was carried out using Google Colaboratory
 ## Author
 This project was created and carried out by [Eloho Okoloko](https://www.linkedin.com/in/elohookoloko/). 
 
-##License
+## License
 
 
 
