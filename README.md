@@ -9,3 +9,6 @@ I will use daily precipitation measured in Seattle and New York from January 1, 
 ## Data Preparation
 I inspected the two datasets to see what information would be necessary to answer the the main question. Then, I merged both datasets retaining only the most important information.
 More details about this process can be found in the Data Preparation Seattle Weather Project IPYNB file (Data_Preparation_Seattle_Weather_Project.ipynb) in this repository. The final csv dataset titled clean_seattle_ny_weather_dataset can also be accessed in this repository.
+
+## Data Analysis
+Using the cleaned data set (clean_seattle_nyc_weather.csv), I conducted an analysis to help me understand more about precipitation in both cities. In general, I searched for any patterns in precipitation each month over 4 years and for which city has more rainy days, heavier rain fall and I also explored the frequency of these heavier rainy days in each city. This analysis can be found in this repository in a file titled Project_1_Seattle_NYC_Weather_Analysis_Notebook.ipynb .
