@@ -14,7 +14,7 @@ More details about this process can be found in the Data Preparation Seattle Wea
 Using the cleaned data set (clean_seattle_nyc_weather.csv), I conducted an analysis to help me understand more about precipitation in both cities. In general, I searched for any patterns in precipitation each month over 4 years and for which city has more rainy days, heavier rain fall and I also explored the frequency of these heavier rainy days in each city. This analysis can be found in this repository in a file titled Project_1_Seattle_NYC_Weather_Analysis_Notebook.ipynb .
 
 ## Requirements
-This brogect was carried out using Google Colaboratory 
+This project was carried out using Google Colaboratory 
 
 ## Author
 This project was created and carried out by [Eloho Okoloko](https://www.linkedin.com/in/elohookoloko/). 
